@@ -5,6 +5,7 @@
 # CIBiG 2025 - Bonus practice
 # SARS-CoV-2 NGS Bioinformatics pipeline v1
 
+(go directly to the R part)
 
 # **## 1. Gather the raw read dataset ##**
 
