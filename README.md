@@ -5,9 +5,6 @@
 # CIBiG 2025 - Bonus practice
 # SARS-CoV-2 NGS Bioinformatics pipeline v1
 
-[(go directly to the R part)](##-Introduction )
-
-
 # **## 1. Gather the raw read dataset ##**
 
  849 SARS-CoV-2 sequencing projects generated from the 2019/11/01 to the 2020/05/12 were downloaded from the NCBI SRA raw read database.
