@@ -5,8 +5,7 @@
 # CIBiG 2025 - Bonus practice
 # SARS-CoV-2 NGS Bioinformatics pipeline v1
 
-(go directly to the R part)
-[5. Phylogenetics reconstruction using R](#5-phylogenetics-reconstruction-using-r)
+[(go directly to the R part)](##-Introduction )
 
 
 # **## 1. Gather the raw read dataset ##**
